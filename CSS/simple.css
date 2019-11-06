@@ -1,0 +1,43 @@
+.container {
+    padding-top: 20px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    background: white;
+}
+
+body{
+  padding:5px;
+}
+
+.center {
+    text-align: center;
+    margin-left: 0;
+}
+
+.spaced {
+    padding: 5%;
+}
+
+.horizontal-spaced {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.padded {
+    padding: 5%;
+}
+
+.padded-right {
+    padding-right: 5%;
+}
+
+.padded-left {
+    padding-left: 5%;
+}
+
+.button-space {
+    padding-top: 5%;
+}
